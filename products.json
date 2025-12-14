@@ -4,7 +4,7 @@
           "name": "Футболка классическая",
           "price": 37,
           "category": "tshirts",
-          "image": "https://cdn-\"image\"s.farfetch-contents.com/33/11/62/36/33116236_63524003_300.jpg",
+          "image": "https://cdn-images.farfetch-contents.com/33/11/62/36/33116236_63524003_300.jpg",
           "description": "Удобная хлопковая футболка",
           "sizes": ["S", "M", "L", "XL"]
         },
@@ -13,7 +13,7 @@
           "name": "Джинсы прямые",
           "price": 93,
           "category": "pants",
-          "image": "https://cdn-\"image\"s.farfetch-contents.com/29/37/52/40/29375240_58767845_300.jpg",
+          "image": "https://cdn-images.farfetch-contents.com/29/37/52/40/29375240_58767845_300.jpg",
           "description": "Классические прямые джинсы",
           "sizes": ["M", "L", "XL"]
         },
@@ -22,7 +22,7 @@
           "name": "Куртка зимняя",
           "price": 185,
           "category": "jackets",
-          "image": "https://f-rb.by/assets/cache/\"image\"s/ftk/b93c0a5b-c1e3-11ea-8134-005056912b25/b93c0a5b-c1e3-11ea-8134-005056912b25_6f71a688-32a1-11ee-bb4f-0050560114b3-300x400-02d.jpg",
+          "image": "https://f-rb.by/assets/cache/images/ftk/b93c0a5b-c1e3-11ea-8134-005056912b25/b93c0a5b-c1e3-11ea-8134-005056912b25_6f71a688-32a1-11ee-bb4f-0050560114b3-300x400-02d.jpg",
           "description": "Теплая зимняя куртка",
           "sizes": ["S", "M", "L"]
         },
@@ -31,7 +31,7 @@
           "name": "Платье летнее",
           "price": 74,
           "category": "dresses",
-          "image": "https://cdn-\"image\"s.farfetch-contents.com/30/11/13/44/30111344_59221789_300.jpg",
+          "image": "https://cdn-images.farfetch-contents.com/30/11/13/44/30111344_59221789_300.jpg",
           "description": "Легкое летнее платье",
           "sizes": ["S", "M", "L"]
         },
@@ -58,7 +58,7 @@
           "name": "Футболка поло",
           "price": 42,
           "category": "tshirts",
-          "image": "https://polo-man.ru/\"image\"/cache//img_5514_kopiya_844-300x400.jpg",
+          "image": "https://polo-man.ru/image/cache//img_5514_kopiya_844-300x400.jpg",
           "description": "Стильная футболка поло",
           "sizes": ["S", "M", "L", "XL"]
         },
@@ -67,7 +67,7 @@
           "name": "Джинсы скинни",
           "price": 98,
           "category": "pants",
-          "image": "https://encrypted-tbn0.gstatic.com/\"image\"s?q=tbn:ANd9GcQSFdDWdQx5mPBtOwZ0140aiyUKxQd7YZN8nw&s",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFdDWdQx5mPBtOwZ0140aiyUKxQd7YZN8nw&s",
           "description": "Узкие джинсы скинни",
           "sizes": ["S", "M", "L"]
         },
@@ -76,7 +76,7 @@
           "name": "Куртка демисезонная",
           "price": 156,
           "category": "jackets",
-          "image": "https://i.ebayimg.com/\"image\"s/g/oW0AAOSwX4ZjijkI/s-l400.jpg",
+          "image": "https://i.ebayimg.com/images/g/oW0AAOSwX4ZjijkI/s-l400.jpg",
           "description": "Легкая демисезонная куртка",
           "sizes": ["M", "L", "XL"]
         },
@@ -94,7 +94,7 @@
           "name": "Свитер оверсайз",
           "price": 125,
           "category": "sweaters",
-          "image": "https://cdn-\"image\"s.farfetch-contents.com/30/29/95/04/30299504_60019805_300.jpg",
+          "image": "https://cdn-images.farfetch-contents.com/30/29/95/04/30299504_60019805_300.jpg",
           "description": "Свободный свитер оверсайз",
           "sizes": ["M", "L", "XL"]
         },
@@ -103,7 +103,7 @@
           "name": "Брюки спортивные",
           "price": 78,
           "category": "pants",
-          "image": "https://cdn-\"image\"s.farfetch-contents.com/32/29/87/24/32298724_62617232_300.jpg",
+          "image": "https://cdn-images.farfetch-contents.com/32/29/87/24/32298724_62617232_300.jpg",
           "description": "Удобные спортивные брюки",
           "sizes": ["S", "M", "L", "XL"]
         },
@@ -121,7 +121,7 @@
           "name": "Джинсы бойфренды",
           "price": 105,
           "category": "pants",
-          "image": "https://cdn-\"image\"s.farfetch-contents.com/28/02/48/95/28024895_57905925_300.jpg",
+          "image": "https://cdn-images.farfetch-contents.com/28/02/48/95/28024895_57905925_300.jpg",
           "description": "Стильные джинсы бойфренды",
           "sizes": ["S", "M", "L"]
         },
@@ -130,7 +130,7 @@
           "name": "Куртка кожаная",
           "price": 220,
           "category": "jackets",
-          "image": "https://cdn-\"image\"s.farfetch-contents.com/29/62/01/13/29620113_60218290_300.jpg",
+          "image": "https://cdn-images.farfetch-contents.com/29/62/01/13/29620113_60218290_300.jpg",
           "description": "Классическая кожаная куртка",
           "sizes": ["M", "L", "XL"]
         }
