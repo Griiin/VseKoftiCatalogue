@@ -1,0 +1,137 @@
+[
+        {
+          "id": 1,
+          "name": "Футболка классическая",
+          "price": 37,
+          "category": "tshirts",
+          "image": "https://cdn-\"image\"s.farfetch-contents.com/33/11/62/36/33116236_63524003_300.jpg",
+          "description": "Удобная хлопковая футболка",
+          "sizes": ["S", "M", "L", "XL"]
+        },
+        {
+          "id": 2,
+          "name": "Джинсы прямые",
+          "price": 93,
+          "category": "pants",
+          "image": "https://cdn-\"image\"s.farfetch-contents.com/29/37/52/40/29375240_58767845_300.jpg",
+          "description": "Классические прямые джинсы",
+          "sizes": ["M", "L", "XL"]
+        },
+        {
+          "id": 3,
+          "name": "Куртка зимняя",
+          "price": 185,
+          "category": "jackets",
+          "image": "https://f-rb.by/assets/cache/\"image\"s/ftk/b93c0a5b-c1e3-11ea-8134-005056912b25/b93c0a5b-c1e3-11ea-8134-005056912b25_6f71a688-32a1-11ee-bb4f-0050560114b3-300x400-02d.jpg",
+          "description": "Теплая зимняя куртка",
+          "sizes": ["S", "M", "L"]
+        },
+        {
+          "id": 4,
+          "name": "Платье летнее",
+          "price": 74,
+          "category": "dresses",
+          "image": "https://cdn-\"image\"s.farfetch-contents.com/30/11/13/44/30111344_59221789_300.jpg",
+          "description": "Легкое летнее платье",
+          "sizes": ["S", "M", "L"]
+        },
+        {
+          "id": 5,
+          "name": "Свитер вязаный",
+          "price": 111,
+          "category": "sweaters",
+          "image": "https://alessandroborelli.ru/wp-content/uploads/2025/07/255153352-3-100_CHernyj_0d84fef4-5585-11f0-956a-60a44ce782eb-300x400.jpg",
+          "description": "Теплый вязаный свитер",
+          "sizes": ["M", "L", "XL"]
+        },
+        {
+          "id": 6,
+          "name": "Брюки офисные",
+          "price": 85,
+          "category": "pants",
+          "image": "https://img1.likewear.by/16/b8/16b8b8e2e15268d6ee73b8acefbe7e6f.jpg",
+          "description": "Классические офисные брюки",
+          "sizes": ["S", "M", "L", "XL"]
+        },
+        {
+          "id": 7,
+          "name": "Футболка поло",
+          "price": 42,
+          "category": "tshirts",
+          "image": "https://polo-man.ru/\"image\"/cache//img_5514_kopiya_844-300x400.jpg",
+          "description": "Стильная футболка поло",
+          "sizes": ["S", "M", "L", "XL"]
+        },
+        {
+          "id": 8,
+          "name": "Джинсы скинни",
+          "price": 98,
+          "category": "pants",
+          "image": "https://encrypted-tbn0.gstatic.com/\"image\"s?q=tbn:ANd9GcQSFdDWdQx5mPBtOwZ0140aiyUKxQd7YZN8nw&s",
+          "description": "Узкие джинсы скинни",
+          "sizes": ["S", "M", "L"]
+        },
+        {
+          "id": 9,
+          "name": "Куртка демисезонная",
+          "price": 156,
+          "category": "jackets",
+          "image": "https://i.ebayimg.com/\"image\"s/g/oW0AAOSwX4ZjijkI/s-l400.jpg",
+          "description": "Легкая демисезонная куртка",
+          "sizes": ["M", "L", "XL"]
+        },
+        {
+          "id": 10,
+          "name": "Платье вечернее",
+          "price": 89,
+          "category": "dresses",
+          "image": "https://img1.likewear.by/31/e9/31e93ffb90cb45f6110ba9b9bfeb8eaf.jpg",
+          "description": "Элегантное вечернее платье",
+          "sizes": ["S", "M", "L"]
+        },
+        {
+          "id": 11,
+          "name": "Свитер оверсайз",
+          "price": 125,
+          "category": "sweaters",
+          "image": "https://cdn-\"image\"s.farfetch-contents.com/30/29/95/04/30299504_60019805_300.jpg",
+          "description": "Свободный свитер оверсайз",
+          "sizes": ["M", "L", "XL"]
+        },
+        {
+          "id": 12,
+          "name": "Брюки спортивные",
+          "price": 78,
+          "category": "pants",
+          "image": "https://cdn-\"image\"s.farfetch-contents.com/32/29/87/24/32298724_62617232_300.jpg",
+          "description": "Удобные спортивные брюки",
+          "sizes": ["S", "M", "L", "XL"]
+        },
+        {
+          "id": 13,
+          "name": "Футболка с принтом",
+          "price": 45,
+          "category": "tshirts",
+          "image": "https://pitbull-russia.com/wp-content/uploads/2025/08/pit-bull-koszulka-meska-denim-washed-raw-skull-logo_1-300x400.jpg",
+          "description": "Футболка с оригинальным принтом",
+          "sizes": ["S", "M", "L", "XL"]
+        },
+        {
+          "id": 14,
+          "name": "Джинсы бойфренды",
+          "price": 105,
+          "category": "pants",
+          "image": "https://cdn-\"image\"s.farfetch-contents.com/28/02/48/95/28024895_57905925_300.jpg",
+          "description": "Стильные джинсы бойфренды",
+          "sizes": ["S", "M", "L"]
+        },
+        {
+          "id": 15,
+          "name": "Куртка кожаная",
+          "price": 220,
+          "category": "jackets",
+          "image": "https://cdn-\"image\"s.farfetch-contents.com/29/62/01/13/29620113_60218290_300.jpg",
+          "description": "Классическая кожаная куртка",
+          "sizes": ["M", "L", "XL"]
+        }
+      ]
